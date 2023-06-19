@@ -1,0 +1,7 @@
+# .gitignore
+.VS_Code
+.DS_Store
+.terraform
+terraform.tfstate*
+terraform-provider-demo2
+dist
